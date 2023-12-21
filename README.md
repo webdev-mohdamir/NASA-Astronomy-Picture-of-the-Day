@@ -29,5 +29,3 @@ python script_name.py
 The script will print a message indicating that it is running, and then it will fetch the information of the Picture of the Day from NASA's API. Subsequently, it will download and save the image as "Picture_Of_The_Day.png" in the script's directory.
 
 Note: In case of any errors during the process, an error message will be displayed.
-
-Feel free to explore and enjoy the daily wonders of the universe with NASA's Picture of the Day!
